@@ -48,7 +48,7 @@ Exibe uma mensagem de sucesso ao enviar o formulário corretamente.
 ## tecnologia Utilizada 
 - HTML
 - CSS
-- JACISCRIPT
+- JAVISCRIPT
 - BOOTSTRAP
 ## links de projeto que usei de auxilio
 - [validacao_Email_CPF](https://github.com/matheussantos1206/validacao_Email_CPF)
@@ -58,3 +58,7 @@ Exibe uma mensagem de sucesso ao enviar o formulário corretamente.
 # RESULTADO 
 
 ![resultado](img/formulario%20login%20completo.png)
+
+# autor:
+
+[MATHEUS ROCHA DOS SANTOS](https://github.com/matheussantos1206)
